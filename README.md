@@ -32,13 +32,13 @@ Click here to access the dataset
 <h3>Sales Performance Overview</h3>
 
 <p align="center">
-<img src="Images/image-ecom-dashboard-1.png" width="800">
+<img src="Images/image-ecom-dashboard-2.png" width="800">
 </p>
 
 <h3>Customer & Product Insights</h3>
 
 <p align="center">
-<img src="Images/image-ecom-dashboard-2.png" width="800">
+<img src="Images/image-ecom-dashboard-1.png" width="800">
 </p>
 
 <hr>
