@@ -1,0 +1,19 @@
+The E-Commerce Sales Analytics Dashboard is an interactive data visualization project developed using Power BI to analyze sales performance, customer behavior, 
+and product insights from transactional retail data. The objective of this project is to transform raw data into meaningful insights that help businesses make data-driven decisions.
+
+The dataset used in this project consists of multiple relational tables including transactions, customers, products, stores, time, and payment methods. 
+These tables were integrated using keys such as customer_key, item_key, store_key, payment_key, and time_key, creating a structured data model suitable for analytical reporting. 
+Data preprocessing and preparation were performed using Python, MySQL, and Excel, ensuring the dataset was clean and well-structured before visualization.
+
+The dashboard provides a comprehensive overview of business performance through key performance indicators such as Total Revenue, Total Quantity Sold, 
+Average Unit Price, and Total Customers. It also includes several visualizations that highlight monthly sales trends, year-wise sales comparisons, 
+geographical sales distribution, and product-level performance.
+
+In addition, the dashboard analyzes customer insights, including the number of active customers, returning customers, and top-spending customers. 
+This helps identify customer purchasing patterns and potential high-value customers. Product performance analysis further reveals which items contribute the most to revenue and sales volume.
+
+The project demonstrates the effective use of Power BI visualizations, DAX measures, and data modeling techniques to create an intuitive and interactive analytical dashboard. 
+By converting complex datasets into clear visual insights, the dashboard enables stakeholders to monitor sales performance, optimize product strategies, 
+and improve overall business decision-making.
+
+Overall, this project highlights the practical application of data analytics tools and business intelligence techniques to solve real-world analytical problems.
